@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\cursosti\\cursoswebapi\\dotnet8\\novo\\24_uof_projeto\\24_uof_projeto\\apicatalogo\\services\\produtosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\services\\produtosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\cursosti\\cursoswebapi\\dotnet8\\novo\\24_uof_projeto\\24_uof_projeto\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\cursosti\\cursoswebapi\\dotnet8\\novo\\24_uof_projeto\\24_uof_projeto\\apicatalogo\\mutation\\mutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\mutation\\mutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\cursosti\\cursoswebapi\\dotnet8\\novo\\24_uof_projeto\\24_uof_projeto\\apicatalogo\\services\\registrarprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\services\\registrarprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosService.cs",
+              "DocumentMoniker": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\APICatalogo\\Services\\ProdutosService.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Services\\ProdutosService.cs",
+              "ToolTip": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\APICatalogo\\Services\\ProdutosService.cs",
+              "RelativeToolTip": "APICatalogo\\Services\\ProdutosService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:02:29.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\APICatalogo\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Produto.cs",
+              "ToolTip": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\APICatalogo\\Models\\Produto.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Produto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:54:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mutations.cs",
+              "DocumentMoniker": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\APICatalogo\\Mutation\\Mutations.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Mutation\\Mutations.cs",
+              "ToolTip": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\APICatalogo\\Mutation\\Mutations.cs",
+              "RelativeToolTip": "APICatalogo\\Mutation\\Mutations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:43:50.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrarProdutoService.cs",
+              "DocumentMoniker": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\APICatalogo\\Services\\RegistrarProdutoService.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Services\\RegistrarProdutoService.cs",
+              "ToolTip": "C:\\CursosTi\\cursosWebApi\\dotnet8\\Novo\\24_Uof_Projeto\\24_Uof_Projeto\\APICatalogo\\Services\\RegistrarProdutoService.cs*",
+              "RelativeToolTip": "APICatalogo\\Services\\RegistrarProdutoService.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:38:50.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
