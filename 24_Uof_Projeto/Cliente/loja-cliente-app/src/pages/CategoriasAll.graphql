@@ -1,0 +1,9 @@
+query gql`
+     query {
+        categorias {
+              id
+              nome
+              imageUrl
+          }
+     }
+    `
